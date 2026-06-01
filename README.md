@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sedra 👋
 
-<!--
-**sedrash/sedrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Engineering Student at ESAIP
 
-Here are some ideas to get you started:
+🔐 Interested in:
+- Cybersecurity
+- Linux Security
+- DevSecOps
+- Python
+- Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Main Projects
+
+- Linux Security Audit Dashboard
+- DevSecOps Kubernetes Security Project
+- AI Study Coach
+- Tamakoshi
+
+📫 Contact
+
+LinkedIn:
+www.linkedin.com/in/sedra-shalhawi
+
+GitHub:
+github.com/sedrash
