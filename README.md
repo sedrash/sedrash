@@ -13,8 +13,7 @@
 
 - Linux Security Audit Dashboard
 - DevSecOps Kubernetes Security Project
-- AI Study Coach
-- Tamakoshi
+
 
 📫 Contact
 
